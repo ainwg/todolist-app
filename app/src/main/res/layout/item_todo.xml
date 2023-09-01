@@ -7,7 +7,7 @@
     android:paddingEnd="8dp">
 
     <TextView
-        android:id="@+id/tvToDoList"
+        android:id="@+id/tvTodoList"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:text="Example"

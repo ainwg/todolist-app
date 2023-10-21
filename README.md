@@ -10,6 +10,6 @@ A simple to-do list app that enables users to add tasks, mark them as completed,
 <h2>Screenshot of the Project 📸</h2>
 <br>
 
-<img src="https://github.com/ainwg/todolist-app/assets/87463461/48ff77fe-9a0a-43fd-af31-60b6fdbd1364" width="250" />
-<img src="https://github.com/ainwg/todolist-app/assets/87463461/93d645fd-dd94-4b24-a8f5-2456df3f8b21" width="250" />
-<img src="https://github.com/ainwg/todolist-app/assets/87463461/8f623644-4cf0-4048-9ffc-87eed3997df4" width="250" />
+<img src="https://github.com/ainwg/todolist-app/assets/87463461/6f322d6f-7dd5-44ce-a171-5a67e346aeaf" width="250">
+<img src="https://github.com/ainwg/todolist-app/assets/87463461/cfc01322-cafe-4189-9b8d-f5438a097fe8" width="250" >
+<img src="https://github.com/ainwg/todolist-app/assets/87463461/cc6c7e01-1dd9-4171-a30d-60e78cfd55cc" width="250" >
